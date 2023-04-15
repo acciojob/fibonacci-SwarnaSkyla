@@ -6,7 +6,9 @@ function fibonacci(num) {
 		n3=n1+n2;
 		n1=n2;
 		n2=n3;
+		console.log(n2)
 	}
+	return ;
 	
 }
 
